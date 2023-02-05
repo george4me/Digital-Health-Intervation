@@ -1,3 +1,5 @@
+![image](images/Picture 1.jpg)
+
 ## Introduction
 Hypertension is a silent killer, you probably won't first experience any symptoms. It develops into a chronic illness over time, eventually causing symptoms including headaches and chest pain.
 Regularly checking your blood pressure can protect you from heart illnesses.
