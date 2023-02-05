@@ -1,7 +1,7 @@
-# Digital-Health-Intervation To improve high blood pressure
+ Digital-Health-Intervation To improve high blood pressure
 ![image](https://user-images.githubusercontent.com/118745391/216828923-7a4fc574-7805-47a4-b86f-eb57d7135227.png)
 
-##Introduction.
+Introduction.
 Hypertension is a silent killer, you probably won't first experience any symptoms. It develops into a chronic illness over time, eventually causing symptoms including headaches and chest pain.
 Regularly checking your blood pressure can protect you from heart illnesses.
 The biggest cause of death in the US is cardiovascular disease. The number of deaths from heart disease grew by 4.8% in 2020, which is the highest increase since 2012.
