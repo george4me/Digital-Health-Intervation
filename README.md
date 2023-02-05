@@ -20,7 +20,7 @@ Through electronic equipment including wearables, mobile devices, smartphone app
 
 
 ## Remote patient monitoring (RPM) cycle in telehealth
-image here()
+![image](images/Picture 2.png)
 
 
 ## Benefits and Challenges
@@ -44,3 +44,4 @@ Telehealth visits, however, might only be a small part of your overall treatment
 2. Hypertens(Greenwich), J. C. (2021, January 23). Telemedicine in the management of hypertension. Clinical Hypertention. Retrieved December 15, 2022, from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8029526/
 3. Mastroianni, B. (2021, July 06). Telehealth for blood pressure. Verywell Health. Retrieved December 20, 2022, from https://www.verywellhealth.com/telehealth-for-blood-pressure-5186141
 4. NEJM Catalyst. (2018, February 1). What is Telehealth. Innovations in Care Delivery. Retrieved December 15, 2022, from https://catalyst.nejm.org/doi/full/10.1056/CAT.18.0268
+5. wikipeadia.com
